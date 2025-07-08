@@ -1,0 +1,55 @@
+/* Cores e fonte padrão */
+body {
+    background-color: #0f0f0f;
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+#menu {
+    background-color: #1a1a1a;
+    padding: 15px;
+    text-align: center;
+}
+
+#menu a {
+    color: #ff0000;
+    margin: 0 10px;
+    text-decoration: none;
+    font-family: Verdana, sans-serif;
+}
+
+#menu a:hover {
+    color: #ff9900;
+}
+
+
+.titulo-principal {
+    text-align: center;
+    font-size: 36px;
+    color: #ff3300;
+    font-family: 'Impact', sans-serif;
+}
+
+
+#descricao {
+    font-family: Georgia, serif;
+    text-align: justify;
+    font-size: 18px;
+}
+
+ul, ol {
+    font-family: 'Courier New', monospace;
+    margin-left: 20px;
+}
+
+
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
